@@ -1,0 +1,15 @@
+# Exclude Python virtual environment
+.venv/
+data/
+wandb/
+traffic_sign_detection/
+.ipynb_checkpoints/
+Deep Learning PyTorch Tutorial.ipynb
+Inference_images/dummy_images/.ipynb_checkpoints
+archive-4
+CNN_Model.pth
+model.pth
+NeuralNetwork_Model.pth
+VGG16_Model.pth
+VGG16_CPU.pth
+Inference_images
